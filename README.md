@@ -1,3 +1,3 @@
 # Project Title
 
-# my-first-repo-by-supakchai
+# my-first-repo-By-Natthasit
